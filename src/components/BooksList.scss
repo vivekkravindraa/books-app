@@ -1,0 +1,5 @@
+@media (min-width: 720px) {
+    .booksList {
+        grid-template-columns: repeat(2, 6fr)
+    }
+}
